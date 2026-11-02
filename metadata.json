@@ -1,0 +1,6 @@
+{
+  "name": "FloodAid",
+  "description": "Offline emergency flood and hurricane relief with offline navigation, shelter finder, SOS beacon, offline triage engine, supplies tracker, and family safety ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
